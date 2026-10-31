@@ -1,16 +1,20 @@
-## Hi there 👋
+# Kerem Ozkan
 
-<!--
-**kerem-ozkandev/kerem-ozkandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent developer behind **Korupt Studio**. I build focused, offline-first software that keeps your data on your device.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+**[odak.](https://github.com/kerem-ozkandev/odak-releases)**
+A free, offline-first study companion for Windows: Pomodoro, stopwatch, school timetable, study planner, session history and statistics. No accounts, no telemetry, no cloud. Currently in public beta; an Android version is in development.
+[Download](https://github.com/kerem-ozkandev/odak-releases/releases) · [Privacy Policy](https://kerem-ozkandev.github.io/odak-privacy/)
+
+**Korupt Studio**
+An independent software workshop and the home of odak. Its website is built with Go, templ, Tailwind CSS and TypeScript, with no Node.js at build or runtime.
+
+---
+
+### Stack
+
+`Python` · `PySide6 / QML` · `SQLite` · `TypeScript` · `React Native` · `Expo` · `Go` · `templ` · `Tailwind CSS`
