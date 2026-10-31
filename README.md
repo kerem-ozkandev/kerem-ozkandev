@@ -11,7 +11,7 @@ A free, offline-first study companion for Windows: Pomodoro, stopwatch, school t
 [Download](https://github.com/kerem-ozkandev/odak-releases/releases) · [Privacy Policy](https://kerem-ozkandev.github.io/odak-privacy/)
 
 **Korupt Studio**
-An independent software workshop and the home of odak. Its website is built with Go, templ, Tailwind CSS and TypeScript, with no Node.js at build or runtime.
+An independent software workshop and the home of odak. Its website is built with Go, templ, Tailwind CSS and TypeScript
 
 ---
 
