@@ -7,8 +7,8 @@ Independent developer behind **Korupt Studio**. I build focused, offline-first s
 ### Projects
 
 **odak.**
-An offline-first study companion for Android, currently in development. My main project.
-[Privacy Policy](https://kerem-ozkandev.github.io/odak-privacy/)
+An offline-first study companion. My main project.
+[Download on the App Store](https://apps.apple.com/app/focus-by-odak/id6837497899) · Android coming soon · [Privacy Policy](https://kerem-ozkandev.github.io/odak-privacy/)
 
 **Korupt Studio**
 An independent software workshop and the home of odak.
